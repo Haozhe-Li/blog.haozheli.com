@@ -1,3 +1,7 @@
-# Haozhe Li's Blog
+# Welcome to my blog! <!-- {docsify-ignore-all} -->
+Hi I'm Haozhe Li, a computer and music student, filmmaker, and runner! I'll be sharing everything I love here, from da Vinci video tutorials to running shoe reviews, it's all possible here! Feel free to share my articles, just mention them without contacting me, thanks!
 
-Welcome to my personal blog and glad you find here! I will post some of my thoughts or video manuscript here, and please share them freely if you want to but don't forget about the citation~
+p.s. Click on the three bars in the lower left corner to see the table of contents and more articles!
+
+## More of my articles
+[read more](_sidebar.md)

@@ -1,7 +1,5 @@
 # About My Running
 
-# Overview
-
 ## Running Facts
 
 - **5K PB**: 21:43
