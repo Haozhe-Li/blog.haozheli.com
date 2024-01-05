@@ -9,6 +9,7 @@
     - [About My Running](run.md)
     - [Fit2Video Readme](fit2video.md)
     - [MOSS](moss.md)
+    - [AI at Haozheli.com](aihaozheli.md)
 
 - About 
     - [Written by Haozhe Li](https://www.haozheli.com)

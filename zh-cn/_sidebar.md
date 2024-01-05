@@ -9,6 +9,7 @@
     - [关于我的跑步](zh-cn/run.md)
     - [Fit2Video说明](zh-cn/fit2video.md)
     - [MOSS介绍](zh-cn/moss.md)
+    - [AI at Haozheli.com](zh-cn/aihaozheli.md)
 
 - 关于
     - [由李浩哲创作](https://www.haozheli.com)
