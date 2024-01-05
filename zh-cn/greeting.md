@@ -8,15 +8,15 @@
 
 首先，我的灵感来自于这里：[**CS128**](https://cs128.org) ，这个是我们学校C++介绍课程的网站。在每次进入网站时，网页都会以不同的语言像我打招呼，并注明这个语言的名字。
 
-![Untitled](../English%20cca26a332a7d4afe941bbcf116c60ade/Using%20JavaScript%20to%20implement%20greeting%20effects%20in%20%20580a630c0f4d47c7ac50e3165f24943c/Untitled.png)
+![Untitled](greeting/Untitled.png)
 
-![Untitled](../English%20cca26a332a7d4afe941bbcf116c60ade/Using%20JavaScript%20to%20implement%20greeting%20effects%20in%20%20580a630c0f4d47c7ac50e3165f24943c/Untitled%201.png)
+![Untitled](greeting/Untitled%201.png)
 
 每次刷新的时候打招呼的语言也会改变，看起来非常有意思。所以我也把这个效果引入了我的个人网站中：[**我的个人网站**](https://www.haozheli.com)
 
-![Untitled](../English%20cca26a332a7d4afe941bbcf116c60ade/Using%20JavaScript%20to%20implement%20greeting%20effects%20in%20%20580a630c0f4d47c7ac50e3165f24943c/Untitled%202.png)
+![Untitled](greeting/Untitled%202.png)
 
-![Untitled](../English%20cca26a332a7d4afe941bbcf116c60ade/Using%20JavaScript%20to%20implement%20greeting%20effects%20in%20%20580a630c0f4d47c7ac50e3165f24943c/Untitled%203.png)
+![Untitled](greeting/Untitled%203.png)
 
 今天我将介绍如何使用html以及JavaScript来实现这一功能。
 
