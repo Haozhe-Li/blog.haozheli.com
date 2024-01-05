@@ -5,7 +5,7 @@
 - **5K PB**：21:43
 - **10K PB**：45:39
 - **开始运行**：2023 年 7 月
-- **运行页面**：[RUN: run.haozheli.com](https://run.haozheli.com/)
+- **跑步页面**：[RUN: run.haozheli.com](https://run.haozheli.com/)
 - **关注我**：[Strava](https://www.strava.com/athletes/haozheli)
 
 ## 目标
@@ -25,7 +25,7 @@
 - 距离：5公里
 - 时间：21:43
 - 排名：总排名第六，年龄组冠军
-- 详情：[Strava](https://www.strava.com/activities/9814724410)、[Bilibili](https://www.bilibili.com/video/BV1hm4y1P7Zn/)、[Youtube](https:// www.youtube.com/watch?v=wAUfVo3kwnQ)
+- 详情：[Strava](https://www.strava.com/activities/9814724410)、[Bilibili](https://www.bilibili.com/video/BV1hm4y1P7Zn/)、[Youtube](https://www.youtube.com/watch?v=wAUfVo3kwnQ)
 - 地点：伊利诺伊州厄巴纳
 - 日期：2023 年 9 月 9 日
 - 相片：
