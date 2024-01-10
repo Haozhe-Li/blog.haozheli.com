@@ -3,6 +3,8 @@
     - [中文](/zh-cn/README.md)
 
 - 目录
+    - [Midnight Manor 体验报告](zh-cn/midnight_report.md)
+    - [Midnight Manor 角色还原](zh-cn/midnight_prompt.md)
     - [在网页中打招呼](zh-cn/greeting.md)
     - [达芬奇](zh-cn/davinci.md)
     - [筛子算法](zh-cn/winnowing.md)
