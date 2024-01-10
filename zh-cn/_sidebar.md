@@ -1,7 +1,3 @@
-- 语言
-    - [English](README.md)
-    - [中文](/zh-cn/README.md)
-
 - 目录
     - [Midnight Manor 体验报告](zh-cn/midnight_report.md)
     - [Midnight Manor 角色还原](zh-cn/midnight_prompt.md)
