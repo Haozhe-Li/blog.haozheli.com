@@ -1,4 +1,5 @@
 - Content
+    - [AIGC Music](aimusic.md)
     - [Midnight Manor Experience Report](midnight_report.md)
     - [Midnight Manor Character Recreate](midnight_prompt.md)
     - [Greetings effect in webpage](greeting.md)

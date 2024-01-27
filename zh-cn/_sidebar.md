@@ -1,4 +1,5 @@
 - 目录
+    - [AIGC音乐](zh-cn/aimusic.md)
     - [Midnight Manor 体验报告](zh-cn/midnight_report.md)
     - [Midnight Manor 角色还原](zh-cn/midnight_prompt.md)
     - [在网页中打招呼](zh-cn/greeting.md)
