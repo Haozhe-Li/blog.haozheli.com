@@ -73,5 +73,3 @@
 - Garbage collectors trade off **performance** and **memory** constraints for ease of use in code writing.
 - Common in high-level languages like Java, Python, and JavaScript.
 - Not present in languages like Rust due to ownership tracking or C/C++ unless third-party libraries are used.
-
-**Note:** Restyle © 2024-02-06 Luther Tychonievich. This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.

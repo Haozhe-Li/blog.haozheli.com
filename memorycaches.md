@@ -2,11 +2,11 @@
 
 ## 1. Locality
 
-- Caching involves pairing a small, fast memory (cache) with a large, slow memory (main memory/RAM).
+- Caching involves **pairing a small, fast memory** (cache) with a **large, slow memory** (main memory/RAM).
 - Caches exploit locality, which refers to:
-  - Spatial locality: Accesses to nearby addresses tend to occur close together.
-  - Temporal locality: Recently accessed data is likely to be accessed again soon.
-- Writing cache-friendly code that exhibits good locality can significantly improve performance.
+  - **Spatial locality:** Accesses to nearby addresses tend to occur close together.
+  - **Temporal locality:** Recently accessed data is likely to be accessed again soon.
+- Writing cache-friendly code that exhibits good locality can significantly **improve performance**.
 
 ### How to build a cache that uses temporal locality
 - Maintain recently accessed data in the cache.
@@ -35,7 +35,7 @@ double loop2(double **a, size_t n) {
   return sqrt(frobenius);
 }
 ```
-`loop2` runs much faster than `loop1` for large `n` due to better cache utilization. In `loop2`, accessing elements column-wise exploits spatial locality.
+`loop2` runs much **faster** than `loop1` for large `n` due to better cache utilization. In `loop2`, **accessing elements column-wise exploits spatial locality**.
 
 ## 2. Warming up the cache
 
@@ -47,7 +47,5 @@ double loop2(double **a, size_t n) {
 ## 3. Caching everywhere
 
 - Caching is ubiquitous in computing, utilized in memory hardware, disks, browsers, and various software applications.
-- Cache systems can sometimes lead to unexpected behaviors, such as using stale copies of data.
+- Cache systems can sometimes lead to **unexpected behaviors**, such as using stale copies of data.
 - Managing cache coherence and resolving staleness are complex topics beyond the scope of this discussion.
-
-**Note:** Restyle © 2024-01-29 Luther Tychonievich. This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
