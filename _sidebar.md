@@ -1,5 +1,6 @@
 - Content
     - [CS 340 Note](cs340.md)
+    - [CS 361 Review Note](cs361.md)
     - [AIGC Music](aimusic.md)
     - [Midnight Manor Experience Report](midnight_report.md)
     - [Midnight Manor Character Recreate](midnight_prompt.md)
