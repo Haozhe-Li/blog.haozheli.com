@@ -103,7 +103,7 @@ To use this email server, follow these steps:
        </script>
    ````
 
-5. If you are still confused, check out the [``demo.html``](demo.html) file. Feel free to download it and use it on your own website. 
+5. If you are still confused, check out the [``demo.html``](https://github.com/Haozhe-Li/Contact_Flask/blob/main/demo.html) file. Feel free to download it and use it on your own website. 
 
 ## FAQ
 
@@ -131,4 +131,4 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Haozhe-Li/Contact_Flask/blob/main/LICENSE) file for more information.
