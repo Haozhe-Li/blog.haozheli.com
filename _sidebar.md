@@ -1,4 +1,5 @@
 - Content
+    - [Contact Flask](contactflask.md)
     - [CS 340 Note](cs340.md)
     - [CS 361 Review Note](cs361.md)
     - [AIGC Music](aimusic.md)
